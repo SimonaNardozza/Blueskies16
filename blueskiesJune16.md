@@ -9,6 +9,7 @@ Some kiwifruit are green and fuzzy.
 Chlorophyll is the green pigment responsible for harvesting light. 
 But chlorophyll has mostly been studied in leaves, not fruit.
 ## Aim of the research
+Understanding if chlorophyll degradation pathway in fruit is controlled differently from leaves.
 ## Proposed research
 ## References
 
